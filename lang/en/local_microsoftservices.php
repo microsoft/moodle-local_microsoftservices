@@ -22,3 +22,4 @@
  */
 
 $string['pluginname'] = 'Microsoft Services';
+$string['privacy:metadata'] = 'The Microsoft Services local plugin does not store any personal data.';
